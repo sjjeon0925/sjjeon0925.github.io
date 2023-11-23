@@ -12,9 +12,8 @@ In your config file change these settings
 title: SangJin Jeon
 author:  
   name: SangJin Jeon
-  email: youremail  
+  email: sjjeon0925@g.skku.edu  
   github: sjjeon0925   
-  resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
+  bio: Developing Myself, Everyday!  
+  email_md5: 82e53ff3425ea909ee86433dbc82f3ed  
 {% endhighlight %}
