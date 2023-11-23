@@ -13,16 +13,16 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: SangJin Jeon
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
+  name: SangJin Jeon
+  email: sjjeon0925@g.skku.edu
   github: sjjeon0925
   instagram: sjjeon0x39d
   bio: Developing Myself, Everyday!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 82e53ff3425ea909ee86433dbc82f3ed
 
 rss_path: feed.xml
 categories_path: categories.html
