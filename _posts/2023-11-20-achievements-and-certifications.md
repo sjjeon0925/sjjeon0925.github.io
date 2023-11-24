@@ -4,7 +4,6 @@ title: Achievements and Certifications
 categories: [info]
 tags: [award, certification, honor]
 fullview: true
-comments: true
 ---
 
 Not yet, But \
