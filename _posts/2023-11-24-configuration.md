@@ -8,15 +8,15 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
-title: dbyll
+title: sjjeon0925
 author:  
-  name: yourname  
-  email: youremail  
-  github: asd123  
-  twitter: asd123  
-  pinterest: asd123  
-  linkedin: asd123     
-  resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
+  name: SangJin Jeon  
+  email: sjjeon0925@g.skku.edu  
+  github: sjjeon0925  
+  twitter: sjjeon0x39d  
+  pinterest: none  
+  linkedin: none     
+  resume: none  
+  bio: Develope Myself,  Everyday!  
+  email_md5: 82e53ff3425ea909ee86433dbc82f3ed  
 {% endhighlight %}
