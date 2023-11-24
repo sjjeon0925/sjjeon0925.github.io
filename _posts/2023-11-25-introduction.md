@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-categories: [info, major, hobby]
+categories: [info]
 tags: [name, major, univ, hobby]
 fullview: true
 comments: true
