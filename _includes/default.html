@@ -32,7 +32,6 @@
 
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
 </head>
-
 <body>
 	<nav class="navbar navbar-default visible-xs" role="navigation">
 		<!-- Brand and toggle get grouped for better mobile display -->
@@ -44,13 +43,20 @@
 				<span class="icon-bar"></span>
 			</button>
 			{% if site.author.github %}
+			<a type="button" class="navbar-toggle nav-link" href="http://github.com/{{ site.author.github }}">
 			<a type="button" class="navbar-toggle nav-link" href="https://github.com/{{ site.author.github }}">
 				<i class="fa fa-github"></i>
 			</a>
 			{% endif %}
 			{% if site.author.twitter %}
+			<a type="button" class="navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
 			<a type="button" class="navbar-toggle nav-link" href="https://twitter.com/{{ site.author.twitter }}">
 				<i class="fa fa-twitter"></i>
+			</a>
+			{% endif %}
+			{% if site.author.instagram %}
+			<a type="button" class="navbar-toggle nav-link" href="https://www.instagram.com/{{ site.author.instagram }}">
+				<i class="fa fa-instagram"></i>
 			</a>
 			{% endif %}
 			{% if site.author.email %}
@@ -63,7 +69,6 @@
 				{{ site.title }}
 			</a>
 		</div>
-
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
