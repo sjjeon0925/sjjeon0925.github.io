@@ -7,10 +7,10 @@ fullview: true
 comments: true
 ---
 
-## Hello my name is **SangJin Jeon**. 
+__Hello my name is SangJin Jeon.__
 
-### I'm studying *Software Engineering* in SKKU.
+* I'm studying *Software Engineering* in SKKU.
 
-My biggest interest is *Artificial Intelligence*.
+* My biggest interest is *Artificial Intelligence*.
 
-And also, I love *Music* and *Fine Arts*.
+* I love *Music* and *Fine Arts*.
