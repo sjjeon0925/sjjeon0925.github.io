@@ -8,7 +8,9 @@ comments: true
 ---
 
 > ***Sungkyunkwan University, 2020 ~*** \
-> *Undergraduated of Colledge of Software Engineering*
+> *Undergraduated of Colledge of Computing and Informatics*  
+>> [Sungkyunkwan University](https://www.skku.edu/skku/index.do) \
+>> [Colledge of Computing and Informatics](https://cs.skku.edu/ko/) 
 
 <br>
 
