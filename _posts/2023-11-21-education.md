@@ -4,7 +4,6 @@ title: Education
 categories: [info]
 tags: [school, learning]
 fullview: true
-comments: true
 ---
 
 > ***Sungkyunkwan University, 2020 ~*** \
