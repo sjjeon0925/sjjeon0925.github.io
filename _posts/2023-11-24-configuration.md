@@ -5,7 +5,7 @@ categories: [info, contact]
 tags: [name, email, github, twitter]
 fullview: true
 ---
-In your config file change these settings
+There're my contact informations
 
 {% highlight yaml %}
 title: sjjeon0925
