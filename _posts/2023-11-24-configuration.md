@@ -5,15 +5,18 @@ categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 ---
-
 In your config file change these settings
 
 {% highlight yaml %}
-title: SangJin Jeon
+title: dbyll
 author:  
-  name: SangJin Jeon
-  email: sjjeon0925@g.skku.edu  
-  github: sjjeon0925   
-  bio: Developing Myself, Everyday!  
-  email_md5: 82e53ff3425ea909ee86433dbc82f3ed  
+  name: yourname  
+  email: youremail  
+  github: asd123  
+  twitter: asd123  
+  pinterest: asd123  
+  linkedin: asd123     
+  resume: asd123  
+  bio: Your stylish,  minimalist theme!  
+  email_md5: md5ofemail  
 {% endhighlight %}
