@@ -4,7 +4,6 @@ title: Introduction
 categories: [info]
 tags: [name, major, univ, hobby]
 fullview: true
-comments: true
 ---
 
 __Hello my name is SangJin Jeon.__
