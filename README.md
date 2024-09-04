@@ -1,4 +1,4 @@
-dbyll
+sjjeon0925
 =====
 
 Open source stylish, minimalistic theme for jekyll.  
